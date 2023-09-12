@@ -2,8 +2,7 @@
     padding:0px;
     margin:0px;
     box-sizing:border-box;
-    font-family: 'Roboto', sans-serif;
-    
+    font-family: 'Roboto', sans-serif; 
 }
 .content1{
     width:100%;
@@ -25,7 +24,7 @@
     padding:20px 0px 20px 0px;
 }
 .contact > b{
-    color:red;
+    color:blue;
     padding:10px;
 }
 .contact{
